@@ -69,7 +69,7 @@ export default function Login() {
         >
           <div className="flex items-center gap-4">
             <img src={Logo} alt="logo" className="h-20" />
-            <h1 className="text-white text-3xl font-bold">snappy</h1>
+            <h1 className="text-white text-3xl font-bold">RapidTalk</h1>
           </div>
           <input
             type="text"
